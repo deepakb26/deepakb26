@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Winning Sports with Numbers](https://medium.com/@deepakbr/winning-sports-with-numbers-dde82211d23e?source=rss-29b51aa0ab95------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
