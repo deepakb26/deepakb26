@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">CSE student at VIT Vellore with an interest in all things tech xD</h3>
+<h3 align="center">CSE student at VIT Vellore <br> 
+ML and WebDev enthusiast </h3>
 
 - 🔭 I’m currently working on **my skills in ML & WebDev**
 
