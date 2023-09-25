@@ -15,7 +15,6 @@
 
 - 💬 Talk to me about **WebDev, Computer Vision, NLP, Football ⚽️**
 
-- 📫 How to reach me **br.deepakram@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
