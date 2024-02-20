@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my skills in ML & WebDev**
 
-- 🌱 I’m currently learning **WebDev (React 👀) & AWS**
+- 🌱 I’m currently learning **WebDev & AWS**
 
 - 👯 I’m looking to **collaborate on cool projects that solve problems**
 
