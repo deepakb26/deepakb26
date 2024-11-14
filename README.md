@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact I'm a Arsenal Fan :) #COYG⠀⠀⠀⠀⠀⠀⠀⠀
 
-- 💬 Talk to me about **WebDev, Computer Vision, NLP, Football ⚽️**
+- 💬 Talk to me about **WebDev, Generative AI, NLP, Football ⚽️**
 
 
 ### Blogs posts
